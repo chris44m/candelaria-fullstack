@@ -1,0 +1,13 @@
+package com.candelaria.candebackend;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CandeBackendApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
